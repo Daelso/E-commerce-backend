@@ -9,7 +9,7 @@
 
 This project was good practice in combining Express routing with mySQL2/sequelize CRUD functions. I learned a lot of little tricks along the way and got good practice in using the newly learned async format. I previously only had a tenuous grasp over these concepts but now feel much better about my understanding. The program allows for full CRUD functionality of a databse containing 3 tables, categories, products and tags. 
 
-[![Youtube demo](https://www.youtube.com/watch?v=1zqqBs2O7U4/0.jpg)](https://www.youtube.com/watch?v=1zqqBs2O7U4)
+[![Youtube demo](https://www.youtube.com/watch?v=i7Tb94DsXuc/0.jpg)](https://www.youtube.com/watch?v=i7Tb94DsXuc)
 
 
 ## Table of Contents
